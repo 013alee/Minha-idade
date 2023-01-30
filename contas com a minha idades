@@ -1,0 +1,37 @@
+void main(){
+  //Aula 30/01
+  
+  //String
+  String semana = 'segunda';
+  print('  Hoje é $semana, Que seja ótima,');
+  
+  // Informar minha idade variavel inteiro
+  int idade = 14;
+  print('até 15 de Novembro, terei $idade anos de idade!.');
+  
+  //soma da idade
+  int x = 7;
+  int y = 7;
+  int resultado = x + y;
+  print('  Minha idade pode ser uma conta de 7+7=$resultado.' );
+  
+  //Multiplicação da idade
+  int a = 7;
+  int z = 2;
+  int conta = a * z;
+  print('  Pode ser tambem uma multiplicação 7x2=$conta,');
+  
+  //divisão da idade
+  int r = 42;
+  int l = 3;
+  double divisao = r / l;
+  print('ou até mesmo uma divisão 42/3=$divisao.');
+  
+  //idade da minha irmã
+  print('  Para achar a idade da minha irmã, basta');
+  int i = 14;
+  int o = 6;
+  int subtracao = i - o;
+  print('subtrair minha idade 14-6=$subtracao.');
+  
+}
